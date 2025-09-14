@@ -1,0 +1,12 @@
+
+site_name: Garage Platform Docs
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - SOPs:
+      - SOP 01: docs/sops/sop-01/README.md
+      - SOP 02: docs/sops/sop-02/README.md
+  - Feature Packs:
+      - Feature Pack 02: docs/feature-packs/feature-pack-02/README.md
+      - Feature Pack 03: docs/feature-packs/feature-pack-03/README.md
